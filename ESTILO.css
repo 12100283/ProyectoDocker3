@@ -1,0 +1,102 @@
+﻿#header
+{
+color: purple;
+font-family: "Berlin Sans FB";
+font-size: x-large;
+font-style:oblique;
+
+}
+
+.fondo{
+	
+	background: #FFFDBF;
+}
+
+.Sena{
+	
+	font-family: "Arial";
+	font-size: xx-large;
+	color: #764927;
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+#DatosCliente 
+{
+	font-family:"Calibri Light";
+    
+font-size: larger;
+} 
+
+
+#contenedor
+{
+   overflow:hidden;
+}
+ 
+#A{
+   float: left;
+font-family: "Calibri Light";
+   font-size: large;
+}
+ 
+#B{
+   float:left;
+font-family: "Calibri Light";
+   font-size: large;
+}
+	
+#contenedor1
+
+{
+	   overflow:hidden;
+}
+	
+#preci
+{
+max-width:222px;
+left:90px;
+float:left;
+}	
+
+
+
+#preci ul
+{
+list-style-type:none;
+display:inline;
+font-family: "Century Gothic";
+
+}
+
+#preci2 ul
+{
+	list-style-type:none;
+display:inline;
+font-family: "Century Gothic";
+
+
+}
+
+p
+{
+	color: browen;
+font-family: "Berlin Sans FB";
+font-size:x-large;
+font-style:oblique;
+
+}
+
+.auto-style5 {
+	margin-left: 25px;
+}
+.auto-style6 {
+	margin-right: 0px;
+}
+
+input
+{
+text-transform:uppercase;
+}
+
